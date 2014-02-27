@@ -14,11 +14,11 @@ How?
 Get binary
 +++++++++++
 
-1. Download from `Releases`_.
+1. Download from Releases_.
 2. Extract.
 3. Run ``qzipcoder.exe`` in the extracted directory.
 
-.. _Releases https://github.com/uranusjr/qzipcoder/releases
+.. _Releases: https://github.com/uranusjr/qzipcoder/releases
 
 
 ++++++++++++
