@@ -27,7 +27,7 @@ From Source
 
 1. Clone.
 2. ``pip install -r requirements.txt``.
-3. ``python src/main.py`` (you might want to use ``pythonw`` instead on OS X).
+3. ``python qzipcoder/main.py`` (you might want to use ``pythonw`` instead if you are on OS X).
 
 
 -----
@@ -41,4 +41,4 @@ Because this is needed.
 Can I...
 ---------
 
-Do WTF you want.
+Yes. Do WTF you want.
