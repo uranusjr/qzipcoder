@@ -14,7 +14,7 @@ How?
 Get binary
 +++++++++++
 
-1. Download from Releases_.
+1. Download from Releases_
 2. Extract.
 3. Run `qzipcoder.exe` in the extracted directory.
 
