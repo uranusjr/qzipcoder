@@ -67,7 +67,7 @@ class MainWidget(QWidget):
 class MainWindow(QMainWindow):
     def __init__(self, *args, **kwargs):
         super(MainWindow, self).__init__(*args, **kwargs)
-        self.setWindowTitle('The Q Zip Coder Finder for Taiwan')
+        self.setWindowTitle('Zip Code Finder for Addresses in Taiwan')
         self.setCentralWidget(MainWidget())
         self.setMenuBar(MenuBar())
         self.resize(500, 175)
